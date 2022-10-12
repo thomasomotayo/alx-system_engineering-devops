@@ -1,2 +1,2 @@
-vi 20-hiago
 #!/bin/bash
+tr -d cC
