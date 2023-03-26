@@ -1,7 +1,11 @@
 Distributed Web Infrastructure
-https://github.com/thomasomotayo/alx-system_engineering-devops/blob/master/0x09-web_infrastructure_design/1-distributed_web_infrastructure.jpg
+
+
+
 Description
+
 This is a distributed web infrastructure that atttempts to reduce the traffic to the primary server by distributing some of the load to a replica server with the aid of a server responsible for balancing the load between the two servers (primary and replica).
+![1-distributed_web_infrastructure](https://user-images.githubusercontent.com/113688693/227776814-e729dbe4-db80-4e92-a837-44efe98fb9af.jpg)
 
 Specifics About This Infrastructure
 The distribution algorithm the load balancer is configured with and how it works.
