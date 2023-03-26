@@ -2,6 +2,12 @@ https://raw.githubusercontent.com/thomasomotayo/alx-system_engineering-devops/ma
 
 Secured and Monitored Web Infrastructure
 
+
+
+
+
+![2-secure_and_monitored_web_infrastructure](https://user-images.githubusercontent.com/113688693/227776910-b5bccfeb-4f08-45d7-adfe-78e3465e127e.jpg)
+
 Description
 This is a 3-server web infrastructure that is secured, monitored, and serves encrypted traffic.
 
