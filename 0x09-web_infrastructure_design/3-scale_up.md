@@ -1,5 +1,9 @@
 Scaled Up Web Infrastructure
 
+
+
+![3-scale_up](https://user-images.githubusercontent.com/113688693/227777004-fa185883-e143-49c7-a4ab-50aacb645f52.jpg)
+
 Description
 This web infrastructure is a scaled up version of the infrastructure described here. In this version, all SPOFs have been removed and each of the major components (web server, application server, and database servers) have been moved to separate GNU/Linux servers. The SSL protection isn't terminated at the load-balancer and each server's network is protected with a firewall and they're also monitored.
 
