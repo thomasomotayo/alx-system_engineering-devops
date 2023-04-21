@@ -1,0 +1,6 @@
+#!/bin/bash
+Host myserver
+    HostName 54.144.82.34
+    User ubuntu
+    IdentityFile /school
+    PasswordAuthentication no
